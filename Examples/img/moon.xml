@@ -1,0 +1,17 @@
+<shape name="Moon" h="103.05" w="77.05" aspect="variable" strokewidth="inherit">
+<connections>
+<constraint x="0.48" y="0" perimeter="0" name="N"/>
+<constraint x="1" y="0.89" perimeter="0" name="SE"/>
+</connections>
+<background>
+<path>
+<move x="37.05" y="0"/>
+<arc rx="48" ry="48" x-axis-rotation="0" large-arc-flag="1" sweep-flag="0" x="77.05" y="92"/>
+<arc rx="60" ry="60" x-axis-rotation="0" large-arc-flag="0" sweep-flag="1" x="37.05" y="0"/>
+<close/>
+</path>
+</background>
+<foreground>
+<fillstroke/>
+</foreground>
+</shape>

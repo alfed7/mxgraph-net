@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MxGraph", "MxGraph\MxGraph.csproj", "{EE321743-0B29-49FD-BEF9-63076502AB10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examples", "Examples\Examples.csproj", "{81A35BB7-BCA8-4510-A1DA-65E7F3392CFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE321743-0B29-49FD-BEF9-63076502AB10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE321743-0B29-49FD-BEF9-63076502AB10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE321743-0B29-49FD-BEF9-63076502AB10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE321743-0B29-49FD-BEF9-63076502AB10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A35BB7-BCA8-4510-A1DA-65E7F3392CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A35BB7-BCA8-4510-A1DA-65E7F3392CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A35BB7-BCA8-4510-A1DA-65E7F3392CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A35BB7-BCA8-4510-A1DA-65E7F3392CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2DAAA8F-8912-44D5-839A-2C765E262608}
+	EndGlobalSection
+EndGlobal
