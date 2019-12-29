@@ -1,2 +1,2 @@
 # mxgraph-net
-Port of mxgraph to .Net Core
+Port of mxgraph (https://github.com/jgraph/mxgraph) to .Net Core
